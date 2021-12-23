@@ -16,9 +16,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on brushing up my skills
-- 
+
 - 🌱 I’m currently learning React
-- 
+
 - 💬 Ask me about DSA, CP and MERN 
-- 
+
 - 📫 How to reach me:  <a href="mailto:dj13042002@gmail.com"><b>Just Click Here</b></a>
