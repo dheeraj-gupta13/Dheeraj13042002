@@ -6,9 +6,9 @@
 
 
 
-**Dheeraj13042002/Dheeraj13042002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Dheeraj13042002/Dheeraj13042002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![Linkedin](https://img.shields.io/badge/kunalthedev-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dheeraj-gupta-8861461bb/)](https://www.linkedin.com/in/dheeraj-gupta-8861461bb/)
+[![Linkedin](https://img.shields.io/badge/Dheeraj-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dheeraj-gupta-8861461bb/)](https://www.linkedin.com/in/dheeraj-gupta-8861461bb/)
 
 Here are some ideas to get you started:
 
