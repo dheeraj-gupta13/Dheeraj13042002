@@ -13,7 +13,7 @@
 [![CodeChef](https://cp-logo.vercel.app/codechef/dheeraj_2002?logo=true)](https://www.codechef.com/users/dheeraj_2002)
 
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on brushing up my skills
 
