@@ -15,7 +15,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on brushing up my skills
+- 🔭 I’m currently brushing up my skills
 
 - 🌱 I’m currently learning React
 
