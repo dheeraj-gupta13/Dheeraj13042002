@@ -10,7 +10,7 @@
 
 [![Linkedin](https://img.shields.io/badge/Dheeraj-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dheeraj-gupta-8861461bb/)](https://www.linkedin.com/in/dheeraj-gupta-8861461bb/)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdheeraj_2002&logo=leetcode&logoColor=yellow)](https://leetcode.com/dheeraj_2002/)
-[![CodeChef](https://cp-logo.vercel.app/codechef/dheeraj_2002?logo=true)](https://www.codechef.com/users/dheeraj_2002)
+
 
 
 <!-- Here are some ideas to get you started: -->
