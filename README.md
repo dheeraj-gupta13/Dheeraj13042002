@@ -39,7 +39,7 @@
 
 ## 📈Github Stats
 <p align="center">
-<a href="https://github.com/Dheeraj13042002">
+<a href="https://github.com/dheeraj13042002">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?
   username=Dheeraj13042002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dheeraj13042002&layout=compact&langs_count=8&theme=algolia"/>
